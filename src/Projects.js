@@ -1,4 +1,3 @@
-// src/Projects.js
 import React from 'react';
 import { motion } from 'framer-motion';
 
@@ -7,12 +6,12 @@ const projects = [
     title: 'Software Developer, Prototype Lead',
     subtitle: 'Mesa Historical Museum',
     description: "I'm currently leading a team of 8 in developing an interactive touchscreen using React.js to be displayed at the entrance of the museum. I utilized Figma to design engaging user interfaces while adhering to accessibility standards. I also utilized Three.js to integrate animations and 3D models.",
-    image: 'https://arizonahistoricalsociety.org/wp-content/uploads/2022/05/MHM.png', // Add image path here
+    image: 'https://arizonahistoricalsociety.org/wp-content/uploads/2022/05/MHM.png', 
   },
   {
     title: 'Cybersecurity Intern',
     subtitle: 'SM Investments Corporation',
-    description: 'As a cybersecurity intern in the mothership corporation that handles retail, banking, and hotels, I monitored the online movement of 55,000+ employees and company servers, utilizing tools like ManageEngine, Trend Vision One, Cloudflare, and Office 365 Microsoft Defender. ',
+    description: 'As a cybersecurity intern in the holding company of SM Group of Companies that handles retail, banking, and hotels, I monitored the online movement of 55,000+ employees and company servers, utilizing tools such as ManageEngine, Trend Vision One, Cloudflare, and Office 365 Microsoft Defender. ',
     image: 'https://www.adobomagazine.com/wp-content/uploads/2022/08/SM-Investments-Corporation-reports-hero.jpg',
   },
   {
