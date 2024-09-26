@@ -34,9 +34,9 @@ const About = () => {
         viewport={{ once: false }} 
       >
         <div className="max-w-3xl">
-        <h2 className="text-6xl font-bold mb-4 text-white">Chelsea Lianne Gomez</h2>
-        <h3 className="font-semibold text-3xl text-blue-800 my-3"><span id="text"></span></h3>
-        <p className="text-white">
+        <h2 className="text-6xl font-bold mb-4 text-white drop-shadow-lg">Chelsea Lianne Gomez</h2>
+        <h3 className="font-semibold text-4xl text-blue-700 my-3 font-Source"><span id="text"></span></h3>
+        <p className="text-white drop-shadow-lg">
           Hello! I’m Chelsea, majoring in Computer Science with a minor in Business. I am a passionate developer with experience in building web applications.
           I enjoy creating intuitive and dynamic user experiences in frontend development using HTML, CSS, Tailwind, JavaScript, and React. I also enjoy writing scripts and backend using Python.
         </p>

@@ -11,7 +11,7 @@ const projects = [
   {
     title: 'Cybersecurity Intern',
     subtitle: 'SM Investments Corporation',
-    description: 'As a cybersecurity intern in the holding company of SM Group of Companies that handles retail, banking, and hotels, I monitored the online movement of 55,000+ employees and company servers, utilizing tools such as ManageEngine, Trend Vision One, Cloudflare, and Office 365 Microsoft Defender. ',
+    description: 'As a cybersecurity intern in the largest company in the Philippines with a market cap of $20 billon, I monitored the online movement of 55,000+ employees and company servers, utilizing tools such as ManageEngine, Trend Vision One, Cloudflare, and Office 365 Microsoft Defender. ',
     image: 'https://www.adobomagazine.com/wp-content/uploads/2022/08/SM-Investments-Corporation-reports-hero.jpg',
   },
   {
@@ -35,7 +35,7 @@ const projects = [
   {
     title: 'General Mentor',
     subtitle: 'The Coalition of American University Student Experiences (CAUSE) Philippines',
-    description: 'As part of the mentorship team, we assisted over 50 Filipino students in applying for universities abroad by providing one-on-one mentoring for junior and senior high school students, resulting in a total of $7.9 million dollars worth of scholarships. I also spoke in informational webinars to spread awareness of the different opportunities of studying abroad.',
+    description: 'As part of the mentorship team, we assisted over 50 Filipino students in applying for universities abroad by providing one-on-one mentoring for high school students, resulting in a total of $7.9 million dollars worth of scholarships.',
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEU4qsjcI4O5zPIFMwECtlZPdFylc5u8Et_w&s',
   }
 ];
